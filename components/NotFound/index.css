@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.notfoundcont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
